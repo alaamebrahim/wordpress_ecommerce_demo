@@ -1,0 +1,45 @@
+2021-12-19T18:56:25+00:00 CRITICAL Uncaught Error: Cannot use object of type WP_Error as array in D:\Development\Php\htdocs\wordpress\wp-content\plugins\elementor\includes\template-library\manager.php:457
+Stack trace:
+#0 [internal function]: Elementor\TemplateLibrary\Manager->import_template(Array)
+#1 D:\Development\Php\htdocs\wordpress\wp-content\plugins\elementor\includes\template-library\manager.php(550): call_user_func(Array, Array)
+#2 D:\Development\Php\htdocs\wordpress\wp-content\plugins\elementor\includes\template-library\manager.php(582): Elementor\TemplateLibrary\Manager->handle_ajax_request('import_template', Array)
+#3 [internal function]: Elementor\TemplateLibrary\Manager->Elementor\TemplateLibrary\{closure}(Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#4 D:\Development\Php\htdocs\wordpress\wp-content\plugins\elementor\core\common\modules\ajax\module.php(171): call_user_func(Object(Closure), Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#5 D:\Development\Php\htdocs\wordpress\wp-includes\class-wp-hook.php(303 in D:\Development\Php\htdocs\wordpress\wp-content\plugins\elementor\includes\template-library\manager.php on line 457
+
+2021-12-19T18:56:31+00:00 CRITICAL Uncaught Error: Cannot use object of type WP_Error as array in D:\Development\Php\htdocs\wordpress\wp-content\plugins\elementor\includes\template-library\manager.php:457
+Stack trace:
+#0 [internal function]: Elementor\TemplateLibrary\Manager->import_template(Array)
+#1 D:\Development\Php\htdocs\wordpress\wp-content\plugins\elementor\includes\template-library\manager.php(550): call_user_func(Array, Array)
+#2 D:\Development\Php\htdocs\wordpress\wp-content\plugins\elementor\includes\template-library\manager.php(582): Elementor\TemplateLibrary\Manager->handle_ajax_request('import_template', Array)
+#3 [internal function]: Elementor\TemplateLibrary\Manager->Elementor\TemplateLibrary\{closure}(Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#4 D:\Development\Php\htdocs\wordpress\wp-content\plugins\elementor\core\common\modules\ajax\module.php(171): call_user_func(Object(Closure), Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#5 D:\Development\Php\htdocs\wordpress\wp-includes\class-wp-hook.php(303 in D:\Development\Php\htdocs\wordpress\wp-content\plugins\elementor\includes\template-library\manager.php on line 457
+
+2021-12-19T18:57:03+00:00 CRITICAL Uncaught Error: Cannot use object of type WP_Error as array in D:\Development\Php\htdocs\wordpress\wp-content\plugins\elementor\includes\template-library\manager.php:457
+Stack trace:
+#0 [internal function]: Elementor\TemplateLibrary\Manager->import_template(Array)
+#1 D:\Development\Php\htdocs\wordpress\wp-content\plugins\elementor\includes\template-library\manager.php(550): call_user_func(Array, Array)
+#2 D:\Development\Php\htdocs\wordpress\wp-content\plugins\elementor\includes\template-library\manager.php(582): Elementor\TemplateLibrary\Manager->handle_ajax_request('import_template', Array)
+#3 [internal function]: Elementor\TemplateLibrary\Manager->Elementor\TemplateLibrary\{closure}(Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#4 D:\Development\Php\htdocs\wordpress\wp-content\plugins\elementor\core\common\modules\ajax\module.php(171): call_user_func(Object(Closure), Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#5 D:\Development\Php\htdocs\wordpress\wp-includes\class-wp-hook.php(303 in D:\Development\Php\htdocs\wordpress\wp-content\plugins\elementor\includes\template-library\manager.php on line 457
+
+2021-12-19T20:18:30+00:00 CRITICAL Uncaught Error: Cannot use object of type WP_Error as array in D:\Development\Php\htdocs\wordpress\wp-content\plugins\elementor\includes\template-library\manager.php:457
+Stack trace:
+#0 [internal function]: Elementor\TemplateLibrary\Manager->import_template(Array)
+#1 D:\Development\Php\htdocs\wordpress\wp-content\plugins\elementor\includes\template-library\manager.php(550): call_user_func(Array, Array)
+#2 D:\Development\Php\htdocs\wordpress\wp-content\plugins\elementor\includes\template-library\manager.php(582): Elementor\TemplateLibrary\Manager->handle_ajax_request('import_template', Array)
+#3 [internal function]: Elementor\TemplateLibrary\Manager->Elementor\TemplateLibrary\{closure}(Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#4 D:\Development\Php\htdocs\wordpress\wp-content\plugins\elementor\core\common\modules\ajax\module.php(171): call_user_func(Object(Closure), Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#5 D:\Development\Php\htdocs\wordpress\wp-includes\class-wp-hook.php(303 in D:\Development\Php\htdocs\wordpress\wp-content\plugins\elementor\includes\template-library\manager.php on line 457
+
+2021-12-19T20:20:01+00:00 CRITICAL Uncaught Error: Cannot use object of type WP_Error as array in D:\Development\Php\htdocs\wordpress\wp-content\plugins\elementor\includes\template-library\manager.php:457
+Stack trace:
+#0 [internal function]: Elementor\TemplateLibrary\Manager->import_template(Array)
+#1 D:\Development\Php\htdocs\wordpress\wp-content\plugins\elementor\includes\template-library\manager.php(550): call_user_func(Array, Array)
+#2 D:\Development\Php\htdocs\wordpress\wp-content\plugins\elementor\includes\template-library\manager.php(582): Elementor\TemplateLibrary\Manager->handle_ajax_request('import_template', Array)
+#3 [internal function]: Elementor\TemplateLibrary\Manager->Elementor\TemplateLibrary\{closure}(Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#4 D:\Development\Php\htdocs\wordpress\wp-content\plugins\elementor\core\common\modules\ajax\module.php(171): call_user_func(Object(Closure), Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#5 D:\Development\Php\htdocs\wordpress\wp-includes\class-wp-hook.php(303 in D:\Development\Php\htdocs\wordpress\wp-content\plugins\elementor\includes\template-library\manager.php on line 457
+
